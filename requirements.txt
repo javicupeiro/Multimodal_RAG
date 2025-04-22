@@ -1,0 +1,13 @@
+python-dotenv
+unstructured[all-docs]
+pillow
+lxml
+chromadb
+tiktoken
+groq
+openai
+ipython
+streamlit
+torch
+transformers
+accelerate
